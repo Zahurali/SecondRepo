@@ -1,4 +1,7 @@
 class Demo{
+    public static void fibonacci(){
+        
+    }
 }
 
 class Hello{
